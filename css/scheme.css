@@ -1,0 +1,14 @@
+:root {
+  color-scheme: light dark;
+
+
+  /*  Color scheme  */
+
+  --surface: rgb(255, 255, 255);
+  --on-surface: rgb(0, 0, 0);
+  --surface-container-low: rgb(255, 255, 255);
+  --surface-container: rgb(219, 227, 227);
+  --surface-container-high: rgb(171, 195, 195);
+
+  --mycolor: light-dark(red, blue);
+}
